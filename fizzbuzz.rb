@@ -9,4 +9,5 @@ def fizzbuzz(number)
    "Fizz" # Go fizz
  elsif number % 5 == 0
    "Buzz"
+ end
 end
